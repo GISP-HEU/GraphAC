@@ -1,5 +1,5 @@
 # GraphAC
-Here we provide the source code for the paper "Graph Attention for Automated Audio Captioning" submitted to [IEEE Signal Processing Letter]()
+Here we provide the source code for the paper "Graph Attention for Automated Audio Captioning" accepted to [IEEE Signal Processing Letter]()
 
 The model structure of the proposed GraphAC is provided in the file path [model](./model/), and the dependent module parts (i.e., PANNs, GAT and the SpecAugment operation) are provided in the file path [modules](./modules/).
 
